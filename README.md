@@ -1,6 +1,6 @@
 # at first run 'MATLABR2013.exe' Exe file , it will copy the matlab.bat file into the system startup folder
 # which you can cross verify by typing
-# run 
+# 'run' in the windows start menu 
 # in run type 'shell:startup'
 # and check whether matlab.bat exit over there or not
 # if not copy that file over here and you job is finish now
