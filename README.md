@@ -1,4 +1,4 @@
-# at first run 'MATLABR2013.exe' Exe file , it will copy the matlab.bat file into the system startup folder
+# at first run 'MATLABR2013.bat' file (recommended), it will copy the matlab.bat file into the system startup folder
 # which you can cross verify by typing
 # 'run' in the windows start menu 
 # in run type 'shell:startup'
